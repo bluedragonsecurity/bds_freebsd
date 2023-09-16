@@ -7,6 +7,8 @@ Developed by : Antonius
 Website : www.bluedragonsec.com
 <br>
 Github : https://github.com/bluedragonsecurity
+<br>
+https://twitter.com/bluedragonsec
 </p>
 
 <p>
