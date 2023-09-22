@@ -16,8 +16,8 @@ Twitter :  https://twitter.com/bluedragonsec
 <ul>
   <li>Bind shell on port 31337</li>
   <li>Bind shell process hiding</li>
-  <li>Hide file with prefix bds</li>
-  <li>Hide bind shell port</li>
+  <li>Hides file with prefix bds</li>
+  <li>Hides bind shell port</li>
   <li>Privilege escalation with password</li>
 </ul>
 </p>
