@@ -2,7 +2,7 @@
 <p>
 Freebsd KLD Rootkit for FreeBSD 13. Hide files, hide process, hide port, bind shell backdoor
 <br>
-Developed by : Antonius
+Developed by : Antonius (wisdom)
 <br>
 Website : www.bluedragonsec.com
 <br>
