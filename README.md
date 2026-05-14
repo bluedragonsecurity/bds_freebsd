@@ -12,7 +12,14 @@ Github : https://github.com/bluedragonsecurity
 <br>
 Twitter :  https://twitter.com/bluedragonsec
 </p>
+<br>
+<h3>The "Not So Famous" Rootkit</h3> 
 
+This kernel rootkit is not so famous, featured in : 
+<br>
+https://krvtz.net/en/posts/practical-process-audit-on-freebsd.html
+<br>
+https://vermaden.wordpress.com/2023/09/25/valuable-news-2023-09-25/
 <p>
 <h3>Features</h3>
 <ul>
